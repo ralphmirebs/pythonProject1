@@ -6,3 +6,4 @@
 L = [1, 'cat', 0.77, 'star']
 for el in L:
     print(type(el))
+

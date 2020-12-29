@@ -36,6 +36,7 @@ while i <= 3:                             # заполнение списка к
                Количество=count,
                Eд=measure)
 
+
     L.append((i, dct))
     i += 1
 
