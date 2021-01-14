@@ -1,0 +1,4 @@
+Cat AO 60 8
+Dog AO 80 9
+Mice SS 33 22
+Bear SS 11 77
