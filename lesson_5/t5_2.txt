@@ -1,0 +1,5 @@
+cat
+world
+0172
+frybar
+ur
