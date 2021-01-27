@@ -70,13 +70,13 @@ c3 = c1 + c2
 c3.make_order(2)
 
 c4 = c3 - c1
-c4.make_order(2)
+c4.make_order(3)
 
 c5 = c4 * c4
-c5.make_order(2)
+c5.make_order(4)
 
 c6 = c5 / c2
-c6.make_order(2)
+c6.make_order(3)
 
 
 
