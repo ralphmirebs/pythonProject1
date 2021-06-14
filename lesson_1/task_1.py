@@ -9,3 +9,5 @@ new_age = int(input("Введите возраст "))
 new_name = input("Введите имя ")
 
 print(f'My {name} is {age} old, but your {new_name} is {new_age} old')
+
+print(f'{time_hour} : {time_min} : {time_sec}')
